@@ -10,3 +10,4 @@ git push -u origin main0.
 
 #proverka
 #work
+#gm cam
